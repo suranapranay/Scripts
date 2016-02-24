@@ -26,5 +26,4 @@ def get_free_node_list():
 
 #For checking purpose
 if __name__ == "__main__":
-        release_nodes(['cisco-03'])
 
